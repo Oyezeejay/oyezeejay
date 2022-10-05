@@ -1,7 +1,7 @@
-### Hi , I'm Zarak Jahan
+### As-salamu alaykum , I'm Zarak Jahan | Welcome to My GITHUB!!!!
 <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" height=70% width=70% align="right">
 
-*Getting ahead with each step!!*
+*Allhumdulilah, Getting ahead with each step!!*
 
 About Me -
 <ul>
