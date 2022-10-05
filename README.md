@@ -1,5 +1,5 @@
 ### Hi , I'm Zarak Jahan
-<img src="https://giphy.com/gifs/coding-hack-hacking-1iNIkQBAwEkUuTpikf" height=90% width=70% align="right">
+<img src="https://giphy.com/gifs/coding-hack-hacking-1iNIkQBAwEkUuTpikf" height=70% width=70% align="right">
 
 *Getting ahead with each step!!*
 
