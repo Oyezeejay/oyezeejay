@@ -1,5 +1,5 @@
 ### Hi , I'm Zarak Jahan 
-<img src="https://media0.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=790b76110819ac3351aa8299139082e6521561bc719bc1ce&rid=giphy.gif&ct=g" height=90% width=70% align="right">
+<img src="https://giphy.com/gifs/90s-80s-illustration-l0HlNaQ6gWfllcjDO" height=90% width=70% align="right">
 
 *Getting ahead with each step!!*
 
@@ -31,8 +31,7 @@ About Me -
     <a href="https://www.cplusplus.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/30/000000/react.png"/> 
-    </a> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/30/000000/react.png"/> </a> 
     <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png"/></a>
    
      
