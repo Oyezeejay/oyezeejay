@@ -8,7 +8,7 @@ About Me -
     
 - 🎯 <b> I’m currently learning </b> <code> Artificial Intelligence, Machine Learning and Data Structures.</code>   
     
-- 🤝 <b>I’m looking to collaborate for</b> <code>hackathons and open source.</code>     
+- 🤝 <b>I’m looking for</b> <code>SDE jobs.</code>     
 
 - 💬 <b>Ask me about</b> <code> C and C++ programming, Machine Learning </code><b> related stuff, I'll be happy to help.</b>  
     
