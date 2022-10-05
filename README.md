@@ -6,11 +6,9 @@
 About Me -
 <ul>
     
-- 🎯 <b> I’m currently learning </b> <code> Artificial Intelligence, Machine Learning and Data Structures.</code>   
-    
-- 🤝 <b>I’m looking for</b> <code>SDE jobs.</code>     
+- 🎯 <b> I’m currently learning </b> <code> Artificial Intelligence, Machine Learning and Data Structures.</code>       
 
-- 💬 <b>Ask me about</b> <code> C and C++ programming, Machine Learning </code><b> related stuff, I'll be happy to help.</b>  
+- 💬 <b>Ask me about</b> <code> C and C++ programming, Machine Learning, Web development </code><b> related stuff, I'll be happy to help.</b>  
     
 - 📧 <b>How to reach me zjkhalid25@gmail.com</b>   
     
@@ -32,8 +30,9 @@ About Me -
     <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/c-programming.png"/> </a>
     <a href="https://www.cplusplus.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-16.png"/> 
+    </a> 
     <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png"/></a>
    
      
