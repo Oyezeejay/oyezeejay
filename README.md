@@ -1,5 +1,5 @@
 ### Hi , I'm Zarak Jahan
-<img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.mp4" height=70% width=70% align="right">
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" height=70% width=70% align="right">
 
 *Getting ahead with each step!!*
 
