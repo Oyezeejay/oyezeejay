@@ -40,10 +40,10 @@ Final Year Computer Science student
 ### Badges
 <p align="center">
 <b>My GitHub Stats</b>
+</p>
+<p align="center"><a href="http://www.github.com/oyezeejay"><img src="https://github-readme-stats.vercel.app/api?username=oyezeejay&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=000000&bg_color=000000&hide_border=true&show_icons=true" alt="oyezeejay's GitHub stats" /></a></p>
 
-<a href="http://www.github.com/oyezeejay"><img src="https://github-readme-stats.vercel.app/api?username=oyezeejay&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=000000&bg_color=000000&hide_border=true&show_icons=true" alt="oyezeejay's GitHub stats" /></a>
-
-<a href="http://www.github.com/oyezeejay"><img src="https://github-readme-streak-stats.herokuapp.com/?user=oyezeejay&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="center"><a href="http://www.github.com/oyezeejay"><img src="https://github-readme-streak-stats.herokuapp.com/?user=oyezeejay&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 ### Support Me
 
