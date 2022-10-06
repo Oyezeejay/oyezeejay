@@ -6,11 +6,15 @@ Full Stack developer and Machine Learning
 
 Final Year Computer Science student
 
-*   🌍  I'm based in Kashmir
-*   ✉️  You can contact me at [zjkhalid25@gmail.com](mailto:zjkhalid25@gmail.com)
-*   🧠  I'm learning Flutter Development
-*   🤝  I'm open to collaborating on Machine learning projects.
-*   ⚡  My sprit animal is Sloth....### Skills 
+* 🌍  I'm based in Kashmir
+* ✉️  You can contact me at [zjkhalid25@gmail.com](mailto:zjkhalid25@gmail.com)
+* 🧠  I'm learning Flutter Development
+* 🤝  I'm open to collaborating on Machine learning projects.
+* ⚡  My sprit animal is Sloth....
+
+### Skills
+
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -27,20 +31,20 @@ Final Year Computer Science student
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/oyezeejay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/oyezeejay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/zarak-jahan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/oyezeejay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/oyezeejay"><img src="https://github-readme-stats.vercel.app/api?username=oyezeejay&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=000000&bg_color=000000&hide_border=true&show_icons=true" alt="oyezeejay's GitHub stats" /></a><a
-                      href="http://www.github.com/oyezeejay"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=oyezeejay&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>### Support Me<a
-                  href="https://www.buymeacoffee.com/oyezeejay"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/oyezeejay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/oyezeejay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/zarak-jahan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/oyezeejay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/oyezeejay"><img src="https://github-readme-stats.vercel.app/api?username=oyezeejay&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=000000&bg_color=000000&hide_border=true&show_icons=true" alt="oyezeejay's GitHub stats" /></a>
+
+<a href="http://www.github.com/oyezeejay"><img src="https://github-readme-streak-stats.herokuapp.com/?user=oyezeejay&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/oyezeejay"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
