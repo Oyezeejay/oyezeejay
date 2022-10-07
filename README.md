@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zarak Jahan
 ===================================================================================================================================
 
-Full Stack developer and Machine Learning
+Full Stack developer and Machine Learning enthusiast
 -----------------------------------------
 
 Final Year Computer Science student
 
-* 🌍  I'm based in Kashmir
+* 🌍  I'm based in Greater Noida
 * ✉️  You can contact me at [zjkhalid25@gmail.com](mailto:zjkhalid25@gmail.com)
 * 🧠  I'm learning Flutter Development
 * 🤝  I'm open to collaborating on Machine learning projects.
