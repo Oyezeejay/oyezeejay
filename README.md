@@ -6,9 +6,9 @@ Full Stack developer and Machine Learning enthusiast
 
 Final Year Computer Science student
 
-* 🌍  I'm based in Greater Noida
+* 🌍  I'm based in Tamil Nadu
 * ✉️  You can contact me at [zjkhalid25@gmail.com](mailto:zjkhalid25@gmail.com)
-* 🧠  I'm learning Flutter Development
+* 🧠  I'm learning DevOps/MLOps
 * 🤝  I'm open to collaborating on Machine learning projects.
 * ⚡  My sprit animal is Sloth....
 
